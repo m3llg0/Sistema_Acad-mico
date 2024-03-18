@@ -8,4 +8,4 @@ class Funcionario_Administrativo:
         print("As informações do Funcionário são: ")
         print("Seu nome: ", self.nome)
         print("Sua idade: ", self.idade)
-        print("Seu cargo: ", self.nome)
+        print("Seu cargo: ", self.cargo)
